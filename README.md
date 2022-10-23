@@ -1,5 +1,5 @@
 # monobankDonateAlerts
-Some widgets for your streams (for obs)
-There are notification widget and list of donations
-Goal widget is in progress
-Others may be appeared
+Some widgets for your streams (for obs)\n
+There are notification widget and list of donations\n
+Goal widget is in progress\n
+Others may be appeared\n
